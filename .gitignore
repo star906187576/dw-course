@@ -1,0 +1,4 @@
+# Project exclude paths
+/log-webServer/target/
+/streaming-etl/target/
+/trade-sys/target/
